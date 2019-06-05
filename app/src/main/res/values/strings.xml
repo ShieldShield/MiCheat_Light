@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">MiCheatLight</string>
+
+    <string name="converter_list">Converter</string>
+    <string name="Cheat_list">Cheat Service</string>
+    <string name="Share_list">Share</string>
+    <string name="about_list">about</string>
+
+    <string name="snack_to_be_implementet_">This feature is currently in developement</string>
+    <string name="snackbar_end">end</string>
+    <string name="snackbar_input_error">Please input everything</string>
+    <string name="snackbar_copied">Copied to clipboard</string>
+
+    <string name="convert">convert</string>
+
+    <string name="converter_Bytes">Bytes</string>
+    <string name="converter_Notifications">Notifications</string>
+
 </resources>
